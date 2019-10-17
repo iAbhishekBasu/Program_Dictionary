@@ -1,6 +1,6 @@
 Welcome to Hacktoberfest 2019
 Steps to complete Hacktoberfest 2019
-1) Edit Contributors list
+1) Edit Contributors list \n
    *) Write your name and roll number
      (Note: Documentation Changes count as Contribution as well)
 2) Chose you favorite language and print the following programs 
