@@ -1,11 +1,11 @@
 Welcome to Hacktoberfest 2019
 
 Steps to complete Hacktoberfest 2019
-1) Edit Contributors list 
+1) Chose you favorite language and chose that folder.
+2) Edit Contributors list 
       Write your name and roll number
      (Note: Documentation Changes count as Contribution as well)
-Send A pull request.     
-2) Chose you favorite language and chose that folder
+Send A pull request.   
 3) Create a new file and give a suitable title.
 4) Print 3 programs eg:
    1) Hello World, along with name
