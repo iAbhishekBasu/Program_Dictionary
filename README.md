@@ -1,6 +1,6 @@
-Welcome to Hacktoberfest 2019
+Welcome to Program Dictionary
 
-Steps to complete Hacktoberfest 2019
+Steps to contribute here and to participate in Hacktoberfest
 1) Chose you favorite language and chose that folder.
 2) Edit Contributors list 
       Write your name and roll number
@@ -23,7 +23,10 @@ Send A pull request.
  
 
 (If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid by the repo admins).
+(Please verify the programs before submitting it ,if it is found wrong then a warning will be given followed by disqualification)
+
 Happy Hacking !
+
 
 
  
