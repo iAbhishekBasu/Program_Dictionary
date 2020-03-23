@@ -22,7 +22,7 @@ Send A pull request.
  5) Send Pull Request for each program added.
  
 
-(If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid by the repo admins).
+(If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid' by the repo admins).
 (Please verify the programs before submitting it ,if it is found wrong then a warning will be given followed by disqualification)
 
 Happy Hacking !
