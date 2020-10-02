@@ -21,7 +21,7 @@ Send A pull request.
  Note: This Repository is also a storage base of basic and complex programs in multiple languages (Like a programming                Dictionary) so please check if your program is already written in a particular language before contributing.
  
  
- 5) Send Pull Request for each program added.
+ 6) Send Pull Request for each program added.
  
 
 (If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid' by the repo admins).
