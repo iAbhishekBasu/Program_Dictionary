@@ -1,4 +1,7 @@
-Welcome to Program Dictionary
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+
+### Welcome to Program Dictionary
 
 Steps to contribute here and to participate in Hacktoberfest
 1) Chose you favorite language and chose that folder.
