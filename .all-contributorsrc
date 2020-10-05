@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ArkopravoDas",
+      "name": "ArkopravoDas",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/62611125?v=4",
+      "profile": "https://github.com/ArkopravoDas",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Program_Dictionary",
+  "projectOwner": "iAbhishekBasu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
