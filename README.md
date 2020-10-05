@@ -6,13 +6,13 @@
 2) Create a new file and give a suitable title.
 3) Add useful programs like
 
-~Program to add 2 numbers
-~Program to check if a number is divisible by 2 or not etc
+* Program to add 2 numbers
+* Program to check if a number is divisible by 2 or not etc
 #### If you are slightly more experienced ,add some complex programs like
-~A Program to find the inverse of an matrix.
-~A program to print floyd's triange.
-~A program to print the L.C.M of 2 numbers.
-~A program to print the H.C.F of 2 numbers.
+* A Program to find the inverse of an matrix.
+* A program to print floyd's triange.
+* A program to print the L.C.M of 2 numbers.
+* A program to print the H.C.F of 2 numbers.
 
 **Note: This Repository is also a storage base of basic and complex programs in multiple languages (Like a programming Dictionary) so please check if your program is already written in a particular language before contributing.
 
