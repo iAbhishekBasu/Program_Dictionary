@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TheDeveloper88",
+      "name": "TheDeveloper88",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/72360337?v=4",
+      "profile": "https://github.com/TheDeveloper88",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Program_Dictionary",
+  "projectOwner": "iAbhishekBasu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
