@@ -14,10 +14,10 @@
 * A program to print the L.C.M of 2 numbers.
 * A program to print the H.C.F of 2 numbers.
 
-**Note: This Repository is also a storage base of basic and complex programs in multiple languages (Like a programming Dictionary) so please check if your program is already written in a particular language before contributing.
+**Note: This Repository is also a storage base of basic and complex programs in multiple languages (Like a programming Dictionary) so please check if your program is already written in a particular language before contributing.**
 
 **Send Pull Request for each program added.
-(If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid' by the repo admins). (Please verify the programs before submitting it ,if it is found wrong then a warning will be given followed by disqualification)
+(If Guidelines are not followed , a warning will be given, if still not rectified then your PR will be labeled as 'Invalid' by the repo admins). (Please verify the programs before submitting it ,if it is found wrong then a warning will be given followed by disqualification)**
 
 Happy Hacking !
 
