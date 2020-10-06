@@ -26,7 +26,7 @@ Happy Hacking !
 
 <td align="center"><a href="https://github.com/ArkopravoDas"><img src="https://avatars0.githubusercontent.com/u/62611125?v=4" width="100px;" alt=""/><br /><sub><b>ArkopravoDas</b></sub></a><br /><a href="https://github.com/iAbhishekBasu/Program_Dictionary/commits?author=ArkopravoDas" title="Code">💻</a></td>
 
-<td align="center"><a href="https://github.com/amitaditya1807"><img src="https://avatars0.githubusercontent.com/u/62611125?v=4" width="100px;" alt=""/><br /><sub><b>ArkopravoDas</b></sub></a><br /><a href="https://github.com/iAbhishekBasu/Program_Dictionary/commits?author=amitaditya1807" title="Code">💻</a></td>
+<td align="center"><a href="https://github.com/amitaditya1807"><img src="https://avatars2.githubusercontent.com/u/56603497?s=400&v=4" width="100px;" alt=""/><br /><sub><b>ArkopravoDas</b></sub></a><br /><a href="https://github.com/iAbhishekBasu/Program_Dictionary/commits?author=amitaditya1807" title="Code">💻</a></td>
 
 <a href="https://github.com/iAbhishekBasu/Program_Dictionary/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=iAbhishekBasu/Program_Dictionary" />
