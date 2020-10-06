@@ -42,3 +42,10 @@ lcm=(a*b)//g
 
 #endregion
 
+# region Modular Exponentiation
+'''Find (base^exp)%mod value fast'''
+base,exp,mod=135,53413543,5432
+
+ans=pow(base,exp,mod)
+
+#endregion
