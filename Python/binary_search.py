@@ -1,36 +1,42 @@
-'''How to do binary search,upper bound,lower bound in python using bisect module'''
+"""How to do binary search,upper bound,lower bound in python using bisect module"""
 
-from bisect import bisect_right,bisect_left
+from bisect import bisect_right, bisect_left
+
+
 def index(a, x):
-    'Locate the leftmost value exactly equal to x'
+    """Locate the leftmost value exactly equal to x"""
     i = bisect_left(a, x)
     if i != len(a) and a[i] == x:
         return i
     raise ValueError
 
+
 def find_lt(a, x):
-    'Find rightmost value less than x'
+    """Find rightmost value less than x"""
     i = bisect_left(a, x)
     if i:
-        return a[i-1]
+        return a[i - 1]
     raise ValueError
+
 
 def find_le(a, x):
-    'Find rightmost value less than or equal to x'
+    """Find rightmost value less than or equal to x"""
     i = bisect_right(a, x)
     if i:
-        return a[i-1]
+        return a[i - 1]
     raise ValueError
 
+
 def find_gt(a, x):
-    'Find leftmost value greater than x'
+    """Find leftmost value greater than x"""
     i = bisect_right(a, x)
     if i != len(a):
         return a[i]
     raise ValueError
 
+
 def find_ge(a, x):
-    'Find leftmost item greater than or equal to x'
+    """Find leftmost item greater than or equal to x"""
     i = bisect_left(a, x)
     if i != len(a):
         return a[i]
