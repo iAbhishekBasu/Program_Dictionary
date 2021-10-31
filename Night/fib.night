@@ -1,0 +1,12 @@
+int fib(int num)
+{
+    if (num <= 1)
+    {
+        return num;
+    }
+    
+    return fib(num - 1) + fib(num - 2);
+}
+
+int fib_num = input();
+print(fib(fib_num));
