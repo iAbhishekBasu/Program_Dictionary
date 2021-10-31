@@ -1,0 +1,10 @@
+// java program to calculate area and circumference of circle
+
+public class AreaAndCircumference {
+    public static double areaOfCircle(double radius) {
+        return Math.PI * (radius * radius);
+    }
+    public static double circleCircumference(double radius) {
+        return Math.PI * 2*radius;    
+    }
+}
