@@ -26,6 +26,7 @@ Happy Hacking !
 
 <a href="https://github.com/iAbhishekBasu/Program_Dictionary/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=iAbhishekBasu/Program_Dictionary" />
+  <img src="https://contrib.rocks/image?repo=iabhishekbasu/Program_Dictionary"/>
 </a>
 
 
