@@ -29,6 +29,5 @@ Happy Hacking !
   <img src="https://contrib.rocks/image?repo=iabhishekbasu/Program_Dictionary"/>
 </a>
 
-![Contributors]("https://contrib.rocks/image?repo=iabhishekbasu/Program_Dictionary")
 
 
