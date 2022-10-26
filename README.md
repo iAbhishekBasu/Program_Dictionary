@@ -22,7 +22,7 @@
 Happy Hacking !
 
 ## Participants and Contributers :heart: 
-[![Contributors](https://img.shields.io/badge/All_Contributors-19-orange.svg?style=flat-square)](https://github.com/iAbhishekBasu/Program_Dictionary/graphs/contributors)
+[![Contributors](https://img.shields.io/badge/All_Contributors-21-orange.svg?style=flat-square)](https://github.com/iAbhishekBasu/Program_Dictionary/graphs/contributors)
 
 <a href="https://github.com/iAbhishekBasu/Program_Dictionary/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=iAbhishekBasu/Program_Dictionary" />
