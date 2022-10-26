@@ -3,17 +3,14 @@
 # define a function
 def compute_hcf(x, y):
 
-# choose the smaller number
-    if x > y:
-        smaller = y
-    else:
-        smaller = x
-    for i in range(1, smaller+1):
-        if((x % i == 0) and (y % i == 0)):
-            hcf = i 
-    return hcf
+# Identify the Numbers' Precedence
+    small, big = y, x if x > y else x, y
+    for i in range(small, big+1, small):
+        if big % i == 0:
+            return i
+    return 1
 
-num1 = 54 
-num2 = 24
-
-print("The H.C.F. is", compute_hcf(num1, num2))
+if __name__ == "__main__":
+    num1 = 54 
+    num2 = 24
+    print("The H.C.F. is", compute_hcf(num1, num2))
