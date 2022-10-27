@@ -52,4 +52,13 @@ base, exp, mod = 135, 53413543, 5432
 
 ans = pow(base, exp, mod)
 
+
+# endregion
+
+
+# region check if s1 is a subsequence of s2
+def is_subsequence(s1: str, s2: str) -> bool:
+    it = iter(s2)
+    return all(c in it for c in s1)
+
 # endregion
