@@ -1,9 +1,10 @@
 # region count occurrence of each element in a iterable(like string)
 from collections import Counter
+
 test_str = 'uycbgfuyxnugfzuywgfxgrfqxu'  # random string
 count = dict(Counter(test_str))
 print(count)
-#endregion
+# endregion
 
 
 # region looping over multiple iterables at once
@@ -13,12 +14,14 @@ m = map(lambda x: f'ascii({ord(x)})', s)  # map object
 
 for i, j, k in zip(s, l, m):  # loops terminates when end of any iterable is reached
     print(f'string:{i}--list:{j}--map:{k}')
-#endregion
+
+
+# endregion
 
 
 # region apply a function to all elements of an iterable
 def function(x):
-    return x*x
+    return x * x
 
 
 List = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
@@ -31,21 +34,22 @@ map2 = map(lambda x: x * x, List)
 l2 = list(map2)
 print(l2)
 
-#endregion
+# endregion
 
 
-#region find gcd and lcm
+# region find gcd and lcm
 from math import gcd
-a,b=123515,584533383
-g=gcd(a,b)
-lcm=(a*b)//g
 
-#endregion
+a, b = 123515, 584533383
+g = gcd(a, b)
+lcm = (a * b) // g
+
+# endregion
 
 # region Modular Exponentiation
 '''Find (base^exp)%mod value fast'''
-base,exp,mod=135,53413543,5432
+base, exp, mod = 135, 53413543, 5432
 
-ans=pow(base,exp,mod)
+ans = pow(base, exp, mod)
 
-#endregion
+# endregion
